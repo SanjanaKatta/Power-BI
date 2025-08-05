@@ -1,40 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Power BI Practice Projects</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f7f7f7;
-      padding: 40px;
-      max-width: 800px;
-      margin: auto;
-      color: #333;
-    }
-    h1, h2 {
-      color: #005f73;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
 
   <h1>📊 Power BI Learning Repository</h1>
 
@@ -48,9 +11,8 @@
 
   <h2>🔍 Key Concepts Covered</h2>
   <ul>
-    <li>Creating and customizing different types of charts (bar, line, pie, etc.)</li>
-    <li>Using slicers and filters to interact with visuals</li>
-    <li>Designing number cards for KPI tracking</li>
+    <li>Creating and customizing different types of charts Bar charts</li>
+    <li>Using filters to interact with visuals</li>
     <li>Exploring stacked vs clustered visuals</li>
     <li>Building clean and effective report layouts</li>
   </ul>
@@ -74,8 +36,5 @@
   <h2>📅 Learning Timeline</h2>
   <p>These Power BI reports were created on <strong>August 4–5, 2025</strong> as part of a self-learning sprint to strengthen my skills in data analytics and reporting.</p>
 
-  <h2>📬 Contact</h2>
-  <p>If you have suggestions or want to connect, feel free to reach out via <a href="mailto:your.email@example.com">email</a> or on <a href="https://www.linkedin.com">LinkedIn</a>.</p>
+ 
 
-</body>
-</html>
