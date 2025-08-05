@@ -5,8 +5,8 @@
 
   <h2>🗂️ Files Included</h2>
   <ul>
-    <li><strong>1_08_25.pbix</strong> – Practice file with basic charts, slicers, and simple data visualizations.</li>
-    <li><strong>4_8_25.pbix</strong> – Advanced visuals including bar charts, line charts, cards, and matrix tables.</li>
+    <li><strong>1_08_25.pbix</strong> – Practice file with Normal Maps, Filled Maps, and simple data visualizations.</li>
+    <li><strong>4_8_25.pbix</strong> – Advanced visuals including bar charts, number cards, Filters, Include and Exclude.</li>
   </ul>
 
   <h2>🔍 Key Concepts Covered</h2>
